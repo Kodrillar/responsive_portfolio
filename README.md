@@ -2,7 +2,7 @@
 
 A responsive portfolio UI. This application loads portfolio details text from a JSON file. You can customize this UI by editing the JSON file; `portfolio_details.json` in this directory, `assets/json`;
 
-<video width="300" src="https://github.com/Kodrillar/Strish/assets/67793558/168d5f7d-07c3-4396-9cb0-caee1b4a5f97"></video>
+<img width="600" alt="port_ui" src="https://github.com/Kodrillar/responsive_portfolio/assets/67793558/4661f18a-3e1c-4023-8d67-82419f97adb7">
 
 ## Getting Started
 
