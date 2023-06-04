@@ -1,0 +1,43 @@
+{
+    "app_bar_title":"BimGraph",
+    "profile":{
+            "name":{
+                "title":"Name:",
+                "content":"Bima Sakti"
+            },
+            "location":{
+                "title":"Based in:",
+                "content":"Tanjung Pinang"
+            }
+
+    },
+    "about":{
+      "title_leading":"About",
+      "title_trailing": "Resume",
+      "content":"I am a UI designer with a passion for creating intuitive and visually appealing user interfaces. I have a strong understanding of design principles and work closely with developers to bring my designs to life. I have had the opportunity to work with a variety of clients at a studio, and am always striving to improve my skills and stay up-to-date on the latest design trends"  
+  },
+    "hero":{
+      "main_content" : "Bringing Your Ideas To Life Through UI Design",
+      "action_button":"Hire Me 👋"
+    },
+    "stats":{
+      "experience":{
+        "title":"2+",
+        "subtitle":"Years Experience"
+      },
+      "projects":{
+        "title":"54+",
+        "subtitle":"Handled Project"
+      },
+      "clients":{
+        "title":"40+",
+        "subtitle":"Clients"
+      }
+    },
+   
+    "ui_portfolio":{
+        "title_leading":"UI Portfolio",
+        "title_trailing": "See All",
+        "action_card":"Read More"
+    }
+}
